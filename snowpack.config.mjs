@@ -61,6 +61,6 @@ export default {
     /* ... */
   },
   buildOptions: {
-    /* ... */
+    baseUrl: "/adophoxia-via"
   },
 };
